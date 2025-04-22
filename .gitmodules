@@ -1,0 +1,6 @@
+[submodule "cep-acl"]
+	path = cep-acl
+	url = https://github.com/DiegoProtec/cep-acl.git
+[submodule "usuario-api"]
+	path = usuario-api
+	url = https://github.com/DiegoProtec/usuario-api.git
